@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.f2fstudy.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\MAT-VR04\\Desktop\\tomg\\F2F study\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "F2F study [Testing]"
+        }
+      }
+    }
+  ]
+}
